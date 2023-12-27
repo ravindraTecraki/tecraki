@@ -1,6 +1,6 @@
 /**
 * Template Name: Hidayah
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
+* Updated: hep 18 2023 with Bootstrap v5.3.2
 * Template URL: https://bootstrapmade.com/hidayah-free-simple-html-template-for-corporate/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -505,6 +505,11 @@ h6 {
 
 #hero .btn-get-started:hover {
   background: #5697d0;
+}
+
+.slide-para{
+  text-align:justify;
+  justify-content: baseline;
 }
 
 @media (max-width: 768px) {
