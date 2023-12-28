@@ -721,6 +721,25 @@ section {
     opacity: 0;
   }
 }
+/* ----------------------------------------------------------------
+# technology ot tech-service
+------------------------------------------------------------------- */
+.technology{
+  padding-top: 0%;
+}
+.tech-service {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tech-box {
+  /* Additional styling for each column */
+  flex: 1; /* This ensures equal width for each column */
+  text-align: center; /* Align content in the center if needed */
+}
+
+
+
 
 /*--------------------------------------------------------------
 # Counts
